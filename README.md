@@ -11,7 +11,7 @@
   <a href="https://www.tiktok.com/@globalshock">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://twitter.com/xGlobalShock_">
+  <a href="https://x.com/xGlobalShock">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://discord.com/invite/npTdfAQmkj">
