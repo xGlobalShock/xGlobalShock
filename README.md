@@ -18,17 +18,3 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
-
----
-
-<h2 align="center">🎮 About GlobalShock</h2>
-
-<p align="center">
-  👾 Full-time button masher and professional respawner in Apex Legends.
-</p>
-
-<p align="center">
-  <a href="https://www.twitch.tv/globalshock">
-    <img src="https://img.shields.io/badge/Catch me live on Twitch!-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-</p>
