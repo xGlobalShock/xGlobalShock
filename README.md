@@ -17,7 +17,7 @@ Full-Stack Developer
 
 <!-- Tech Stack & Tools Badge -->
 <p align="center">
-  ![Tech Stack & Tools](https://img.shields.io/badge/Tech%20Stack-%20Tools-orange?style=for-the-badge&logo=appveyor&logoColor=white)
+  ![Tech Stack & Tools](https://img.shields.io/badge/Tech%20Stack-%20Tools-FF4500?style=for-the-badge&logo=appveyor&logoColor=white)
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Full-Stack Developer
 
 <!-- Connect with Me Badge -->
 <p align="center">
-  ![Connect with Me](https://img.shields.io/badge/Connect%20with%20Me-%20Links-blue?style=for-the-badge&logo=appveyor&logoColor=white)
+  ![Connect with Me](https://img.shields.io/badge/Connect%20with%20Me-%20Links-1E90FF?style=for-the-badge&logo=appveyor&logoColor=white)
 </p>
 
 <div align="center">
