@@ -37,21 +37,22 @@ Full-Stack Developer
 </p>
 
 ---
-
 ### Connect with me
 
 <p align="center">
   <a href="https://www.twitch.tv/globalshock">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=000000">
+    <img height="38" src="https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch&logoColor=white">
   </a>
+  &nbsp;
   <a href="https://www.tiktok.com/@globalshock">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000">
+    <img height="38" src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white">
   </a>
+  &nbsp;
   <a href="https://x.com/xGlobalShock">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=000000">
+    <img height="38" src="https://img.shields.io/badge/-X-111111?style=flat&logo=x&logoColor=white">
   </a>
+  &nbsp;
   <a href="https://discord.com/invite/npTdfAQmkj">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000">
+    <img height="38" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white">
   </a>
 </p>
-
