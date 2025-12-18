@@ -15,9 +15,9 @@ Full-Stack Developer
 
 ---
 
-<!-- Gradient Heading for Tech Stack & Tools -->
+<!-- Tech Stack & Tools Badge -->
 <p align="center">
-  <img src="https://svgshare.com/i/tyb.svg" alt="Tech Stack & Tools" />
+  ![Tech Stack & Tools](https://img.shields.io/badge/Tech%20Stack-%20Tools-orange?style=for-the-badge&logo=appveyor&logoColor=white)
 </p>
 
 <p align="center">
@@ -29,9 +29,9 @@ Full-Stack Developer
 
 ---
 
-<!-- Gradient Heading for Connect with Me -->
+<!-- Connect with Me Badge -->
 <p align="center">
-  <img src="https://svgshare.com/i/tyc.svg" alt="Connect with Me" />
+  ![Connect with Me](https://img.shields.io/badge/Connect%20with%20Me-%20Links-blue?style=for-the-badge&logo=appveyor&logoColor=white)
 </p>
 
 <div align="center">
