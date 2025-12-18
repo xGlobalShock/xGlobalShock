@@ -3,10 +3,10 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849495/4244/welcome.gif?1531849495" width="180" alt="Welcome" />
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#9146FF;">GlobalShock</span></h1>
+<h1 align="center"><span style="color:#9146FF;">GlobalShock</span></h1>
 
 <p align="center">
-  🎮 Streamer • 💻 Full-Stack Developer • 🚀 Creator
+Full-Stack Developer
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-### 🧠 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <!-- Languages -->
@@ -38,7 +38,7 @@
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 <p align="center">
   <a href="https://www.twitch.tv/globalshock">
