@@ -29,16 +29,14 @@ Full-Stack Developer
 ### Connect with me
 
 <p align="center">
-  <a href="https://www.twitch.tv/globalshock">
-    <img src="https://skillicons.dev/icons?i=twitch&theme=dark" height="45"/>
-  </a>
-  <a href="https://www.tiktok.com/@globalshock">
-    <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" height="45"/>
-  </a>
-  <a href="https://x.com/xGlobalShock">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="45"/>
-  </a>
-  <a href="https://discord.com/invite/npTdfAQmkj">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="45"/>
-  </a>
+
+[<img src="https://cdn.simpleicons.org/twitch/9146FF" height="42" />](https://www.twitch.tv/globalshock)
+&nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/tiktok/000000" height="42" />](https://www.tiktok.com/@globalshock)
+&nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/x/FFFFFF" height="42" />](https://x.com/xGlobalShock)
+&nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/discord/5865F2" height="42" />](https://discord.com/invite/npTdfAQmkj)
+
 </p>
+
