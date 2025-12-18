@@ -18,9 +18,11 @@ Full-Stack Developer
 ### Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,rust,js,css,html,cs,java,react,svelte,nginx,docker,kubernetes,grafana,cloudflare&theme=dark&perline=20" />
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mysql,git,github,vscode&theme=dark&perline=15" 
+    height="60"
+  />
 </p>
-
 ---
 ### Connect with me
 
