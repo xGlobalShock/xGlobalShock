@@ -3,7 +3,8 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849495/4244/welcome.gif?1531849495" width="180" alt="Welcome" />
 </p>
 
-<h1 align="center"><span style="color:#9146FF;">GlobalShock</span></h1>
+<!-- Name with color -->
+<h1 align="center" style="color:#9146FF;">GlobalShock</h1>
 
 <p align="center">
 Full-Stack Developer
@@ -15,10 +16,8 @@ Full-Stack Developer
 
 ---
 
-<!-- Tech Stack & Tools Badge -->
-<p align="center">
-  ![Tech Stack & Tools](https://img.shields.io/badge/Tech%20Stack-%20Tools-FF4500?style=for-the-badge&logo=appveyor&logoColor=white)
-</p>
+<!-- Tech Stack & Tools heading with custom color -->
+<h2 align="center" style="color:#FF4500;">Tech Stack & Tools</h2>
 
 <p align="center">
   <img 
@@ -29,10 +28,8 @@ Full-Stack Developer
 
 ---
 
-<!-- Connect with Me Badge -->
-<p align="center">
-  ![Connect with Me](https://img.shields.io/badge/Connect%20with%20Me-%20Links-1E90FF?style=for-the-badge&logo=appveyor&logoColor=white)
-</p>
+<!-- Connect with Me heading with custom color -->
+<h2 align="center" style="color:#1E90FF;">Connect with Me</h2>
 
 <div align="center">
 
