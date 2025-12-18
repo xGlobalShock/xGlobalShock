@@ -23,7 +23,9 @@ Full-Stack Developer
     height="60"
   />
 </p>
+
 ---
+
 ### Connect with me
 
 <p align="center">
