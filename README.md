@@ -15,7 +15,10 @@ Full-Stack Developer
 
 ---
 
-### Tech Stack & Tools
+<!-- Gradient Heading for Tech Stack & Tools -->
+<p align="center">
+  <img src="https://svgshare.com/i/tyb.svg" alt="Tech Stack & Tools" />
+</p>
 
 <p align="center">
   <img 
@@ -26,7 +29,10 @@ Full-Stack Developer
 
 ---
 
-### Connect with me
+<!-- Gradient Heading for Connect with Me -->
+<p align="center">
+  <img src="https://svgshare.com/i/tyc.svg" alt="Connect with Me" />
+</p>
 
 <div align="center">
 
