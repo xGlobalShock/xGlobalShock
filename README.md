@@ -29,11 +29,16 @@ Full-Stack Developer
 ### Connect with me
 
 <p align="center">
-
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/globalshock)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@globalshock)
-[![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/xGlobalShock)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/npTdfAQmkj)
-
+  <a href="https://www.twitch.tv/globalshock">
+    <img src="https://skillicons.dev/icons?i=twitch&theme=dark" height="45"/>
+  </a>
+  <a href="https://www.tiktok.com/@globalshock">
+    <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" height="45"/>
+  </a>
+  <a href="https://x.com/xGlobalShock">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="45"/>
+  </a>
+  <a href="https://discord.com/invite/npTdfAQmkj">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="45"/>
+  </a>
 </p>
-
