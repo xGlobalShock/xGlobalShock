@@ -36,7 +36,7 @@ Full-Stack Developer
 [<img src="https://cdn.simpleicons.org/twitch/9146FF" height="42">](https://www.twitch.tv/globalshock) &nbsp;
 [<img src="https://cdn.simpleicons.org/instagram/E4405F" height="42">](https://www.instagram.com/globalshock) &nbsp;
 [<img src="https://cdn.simpleicons.org/tiktok/FFFFFF" height="42">](https://www.tiktok.com/@globalshock) &nbsp;
-[<img src="https://cdn.simpleicons.org/x/FFFFFF" height="35">](https://x.com/xGlobalShock) &nbsp;
+[<img src="https://cdn.simpleicons.org/x/FFFFFF" height="42">](https://x.com/xGlobalShock) &nbsp;
 [<img src="https://cdn.simpleicons.org/youtube/FF0000" height="42">](https://www.youtube.com/@globalshock) &nbsp;
 [<img src="https://cdn.simpleicons.org/discord/5865F2" height="42">](https://discord.com/invite/npTdfAQmkj)
 
