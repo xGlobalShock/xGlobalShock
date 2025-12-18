@@ -27,34 +27,18 @@ Full-Stack Developer
 ---
 
 ### Connect with me
-
 <p align="center">
 
-<a href="https://www.twitch.tv/globalshock" target="_blank">
-  <img src="https://cdn.simpleicons.org/twitch/9146FF" height="42" />
-</a>
+[<img src="https://cdn.simpleicons.org/twitch/9146FF" height="42" />](https://www.twitch.tv/globalshock)
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/globalshock" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="42" />
-</a>
+[<img src="https://cdn.simpleicons.org/instagram/E4405F" height="42" />](https://www.instagram.com/globalshock)
 &nbsp;&nbsp;
-<a href="https://www.tiktok.com/@globalshock" target="_blank">
-  <img src="https://cdn.simpleicons.org/tiktok/000000" height="42" />
-</a>
+[<img src="https://cdn.simpleicons.org/tiktok/000000" height="42" />](https://www.tiktok.com/@globalshock)
 &nbsp;&nbsp;
-<a href="https://www.threads.net/globalshock" target="_blank">
-  <img src="https://cdn.simpleicons.org/threads/000000" height="42" />
-</a>
+[<img src="https://cdn.simpleicons.org/threads/000000" height="42" />](https://www.threads.net/globalshock)
 &nbsp;&nbsp;
-<a href="https://www.youtube.com/@globalshock" target="_blank">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="42" />
-</a>
+[<img src="https://cdn.simpleicons.org/youtube/FF0000" height="42" />](https://www.youtube.com/@globalshock)
 &nbsp;&nbsp;
-<a href="https://discord.com/invite/npTdfAQmkj" target="_blank">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="42" />
-</a>
+[<img src="https://cdn.simpleicons.org/discord/5865F2" height="42" />](https://discord.com/invite/npTdfAQmkj)
 
 </p>
-
-
-
