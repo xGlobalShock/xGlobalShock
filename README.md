@@ -18,22 +18,7 @@ Full-Stack Developer
 ### Tech Stack & Tools
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jsx" />
-</p>
-
-<p align="center">
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
-</p>
-
-<p align="center">
-  <!-- Databases & Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
-</p>
-
-<p align="center">
-  <i>Always learning & experimenting with new technologies</i>
+  <img src="https://skillicons.dev/icons?i=nodejs,rust,js,css,html,cs,java,react,svelte,nginx,docker,kubernetes,grafana,cloudflare&theme=dark&perline=20" />
 </p>
 
 ---
