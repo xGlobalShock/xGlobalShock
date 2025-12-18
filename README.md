@@ -41,18 +41,18 @@ Full-Stack Developer
 
 <p align="center">
   <a href="https://www.twitch.tv/globalshock">
-    <img height="58" src="https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch&logoColor=white">
+    <img height="88" src="https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch&logoColor=white">
   </a>
   &nbsp;
   <a href="https://www.tiktok.com/@globalshock">
-    <img height="58" src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white">
+    <img height="88" src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white">
   </a>
   &nbsp;
   <a href="https://x.com/xGlobalShock">
-    <img height="58" src="https://img.shields.io/badge/-Twitter-111111?style=flat&logo=x&logoColor=white">
+    <img height="88" src="https://img.shields.io/badge/-Twitter-111111?style=flat&logo=x&logoColor=white">
   </a>
   &nbsp;
   <a href="https://discord.com/invite/npTdfAQmkj">
-    <img height="58" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white">
+    <img height="88" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white">
   </a>
 </p>
