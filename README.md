@@ -10,10 +10,6 @@
 Full-Stack Developer
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GlobalShock&label=Profile%20Views&color=9146FF&style=flat-square" />
-</p>
-
 ---
 
 <!-- Tech Stack & Tools heading with custom color -->
