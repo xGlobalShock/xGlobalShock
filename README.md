@@ -19,7 +19,6 @@ Full-Stack Developer
 <p align="center">
   <img src="https://api.statusbadges.me/badge/playing/377758014431690752" alt="playing">
   <img src="https://api.statusbadges.me/badge/vscode/377758014431690752" alt="vscode">
-  <img src="https://api.statusbadges.me/badge/spotify/377758014431690752" alt="spotify">
 </p>
 
 ---
