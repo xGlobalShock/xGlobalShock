@@ -4,10 +4,22 @@
 </p>
 
 <!-- Name with color -->
-<h1 align="center" style="color:#9146FF;">GlobalShock</h1>
+<h1 align="center" style="color:#9146FF;">GlobalShock
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xGlobalShock&color=green" alt="views">
+  <img src="https://api.statusbadges.me/badge/status/377758014431690752?simple=true" alt="Status">
+</p>
+</h1>
+
 
 <p align="center">
 Full-Stack Developer
+</p>
+
+<p align="center">
+  <img src="https://api.statusbadges.me/badge/playing/377758014431690752" alt="playing">
+  <img src="https://api.statusbadges.me/badge/vscode/377758014431690752" alt="vscode">
+  <img src="https://api.statusbadges.me/badge/spotify/377758014431690752" alt="spotify">
 </p>
 
 ---
